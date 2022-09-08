@@ -2,11 +2,10 @@
 DABHOLKAR NUZHAT
 
 ##PROJECT TITLE
-PAYTM CLONE 
+PAYTM CLONE
 
-##WHAT I LEARN IN THIS PROJECT
- 1)TAILWIND 
-     
+
+##WHAT I LEARN IN THIS PROJECT   
 Tailwind is basically its css frame work
 so step wise i will tell you how to used tailwind 
 1) go to  https://tailwindcss.com
@@ -22,6 +21,8 @@ that means here we dont need style.css file we write all code in one file or you
  if you face problem regarding margin ,padding , letter spacing
 or any problem  just click on search icon and you can get easy solution howto used that property 
 i hope you understand how to used tailwind
+
+
 
 
 ## LINK
