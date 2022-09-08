@@ -1,11 +1,11 @@
 ## Author
 DABHOLKAR NUZHAT
 
-##PROJECT TITLE
+## PROJECT TITLE
 PAYTM CLONE
 
 
-##WHAT I LEARN IN THIS PROJECT   
+## WHAT I LEARN IN THIS PROJECT   
 Tailwind is basically its css frame work
 so step wise i will tell you how to used tailwind 
 1) go to  https://tailwindcss.com
