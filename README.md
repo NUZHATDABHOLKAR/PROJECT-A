@@ -29,4 +29,4 @@ i hope you understand how to used tailwind
 [PAYTMCLONE](https://project1p.netlify.app/)
 
 ## TIME
-15 HOUR 
+25 HOUR 
