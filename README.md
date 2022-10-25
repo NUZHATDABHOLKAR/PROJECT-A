@@ -6,8 +6,8 @@ PAYTM CLONE
 
 
 ## skill  
- 1)html
- 2)css
+ 1)html<br>
+ 2)css<br>
  tailwind css
 
 
